@@ -1,4 +1,3 @@
-https://twitter.com/Devar
 https://twitter.com/newfish
 https://twitter.com/_woodsiderider
 https://twitter.com/mungojelly

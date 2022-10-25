@@ -22,4 +22,6 @@ Click the profile link of the BSVer to Follow them and retweet them!
 
 https://github.com/bitsko/awesome-bsv-twitter-accounts/blob/master/bsv_account_urls.md
 
+Special Thanks to Jameson Lopp for connecting the circuit!
+
 ![image](https://user-images.githubusercontent.com/26992310/197864046-839d85c6-1cd3-4f01-bba8-ce4638aa823a.png)

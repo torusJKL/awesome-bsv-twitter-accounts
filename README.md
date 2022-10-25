@@ -16,4 +16,10 @@ How Do I Use It?
 
 Check out all the BSVer who have really old twitter account lol.
 
+https://github.com/bitsko/awesome-bsv-twitter-accounts/blob/master/bsv_accounts_by_age.csv
+
+Click the profile link of the BSVer to Follow them and retweet them!
+
+https://github.com/bitsko/awesome-bsv-twitter-accounts/blob/master/bsv_account_urls.md
+
 ![image](https://user-images.githubusercontent.com/26992310/197864046-839d85c6-1cd3-4f01-bba8-ce4638aa823a.png)

@@ -21,3 +21,5 @@ License
 -------
 
 This information is published under the terms of the [Unlicense](LICENSE). Do what you wish with it.
+
+![image](https://user-images.githubusercontent.com/26992310/197864046-839d85c6-1cd3-4f01-bba8-ce4638aa823a.png)
